@@ -21,3 +21,6 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 
 ![image](https://github.com/Bharath-Smart/Image_Classification/assets/84274467/69e4080c-9c01-481c-a5c4-b437360cd2c0)
 
+#### Link to the Kaggle Competition: 
+https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7
+
